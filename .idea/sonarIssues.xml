@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.tmobile.ecare/ecare-common/18.2.0-mservices.47/e9bb5208d85be2b68eff607bc2864cf97f6930a5/ecare-common-18.2.0-mservices.47.jar!/de/tmobile/ecare/common/portal/WorkflowMapper.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.tmobile.ecare/ecare-common/18.2.0-mservices.47/e9bb5208d85be2b68eff607bc2864cf97f6930a5/ecare-common-18.2.0-mservices.47.jar!/de/tmobile/ecare/common/vo/GeneralSessionInfoVO.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/carrotsearch/sizeof/ObjectTree.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../java-sizeof-0.0.6.jar!/com/carrotsearch/sizeof/ObjectTree.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../mshop-services/mshop_business/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../mshop-services/mshop_business/src/main/java/de/tmobile/ecare/business/mshop/services/impl/MobileDeviceServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
